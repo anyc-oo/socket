@@ -1,0 +1,3 @@
+/home/an/pro1/src/build/CMakeFiles/app.dir
+/home/an/pro1/src/build/CMakeFiles/edit_cache.dir
+/home/an/pro1/src/build/CMakeFiles/rebuild_cache.dir

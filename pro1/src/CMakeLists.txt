@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.30.0)
+project(QQ)
+aux_source_directory(${PROJECT_SOURCE_DIR} SRC_LIST)
+set(EXECUTABLE_OUTPUT_PATH /home/an/pro1/src)
+set(CMAKE_OBJCXX_STANDARD 14)
+add_executable(app ${SRC_LIST})
